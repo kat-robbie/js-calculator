@@ -3,7 +3,7 @@
   height: 300px;
   border: 1px solid black;
   text-align: center;
-  background-color: lightgreen;
+  background-color: #9266a0;
   margin: 150px auto;
   box-shadow: 0px 0px 30px gray;
 }
@@ -13,11 +13,11 @@
   margin-bottom: 20px;
   width: 220px;
   height: 30px;
-  border: 1px solid red;
-  box-shadow: 0px 0px 30px red;
+  border: 1px solid #f2aee1;
+  box-shadow: 0px 0px 30px #f2aee1;
   text-align: right;
   font: 20px bold;
-  color: blue;
+  color: #5e1b96;
 }
 
 #keys {
